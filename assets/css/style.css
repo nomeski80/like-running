@@ -1,0 +1,10 @@
+/*Asterix wildcard selector to override default styles by the browaer */
+*{padding: 0;
+margin: 0;
+box-sizing:boarderbox;}
+/*header*/
+header {background-color: lightcoral;}
+/*main cobtent */
+main {background-color: lightblue;}
+/* footer*/
+footer {background-color: orange;}
